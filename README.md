@@ -31,7 +31,7 @@ Technologies & Tools
 
 
 <img width="64" height="64" src="https://img.icons8.com/dusk/64/css3.png" alt="css3"/>
-<img width="64" height="64" src="https://img.icons8.com/arcade/64/html.png" alt="html"/>  
+<img width="64" height="64" src="https://img.icons8.com/color/64/html-5--v1.png" alt="html-5--v1"/>
 <img width="64" height="64" src="https://img.icons8.com/fluency/64/wordpress.png" alt="wordpress"/>
 <img width="64" height="64" src="https://img.icons8.com/plasticine/64/notion.png" alt="notion"/>
 </div>
