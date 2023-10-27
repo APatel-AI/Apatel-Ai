@@ -2,7 +2,7 @@
 <h1 align="center"> Hi 👋,   I'm Arpan Patel </h1>
 
 
-<h2 align="center"> Full Stack Software Developer  </h2>
+<h2 align="center"> Full Stack Software Developer & UI/UX Enthusiast  </h2>
 
 <h3>Get in Touch | Collaborate | Reach Out :</h3>
 <a href="https://www.linkedin.com/in/arpan-p" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> </a>
