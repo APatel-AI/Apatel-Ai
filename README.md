@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋,   I'm Arpan Patel </h1>
+<h1 align="center"> Hi 👋,   I'm Arpan</h1>
 
 
 <h2 align="center"> Full Stack Software Developer  </h2>
