@@ -1,15 +1,16 @@
 
 <h1 align="center"> Hi 👋,   I'm Arpan</h1>
+<h2 align="center"> Full-stack Developer </h2>
 
 
 
-<h3>Get in Touch | Collaborate | Reach Out :</h3>
+<h3>Get in Touch:</h3>
 <a href="https://www.linkedin.com/in/arpan-p" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> </a>
 <a href = "https://dev.to/apatel-ai" target="_blank"> <img width="48" height="48" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="linkedin"/> </a>
 
 ---
 
-<h3>Technologies:</h3>
+<h3>Current Technologies:</h3>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
   <img  height="64px" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
