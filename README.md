@@ -1,35 +1,40 @@
+# Hi 👋 There, I'm Arpan
+####  Full-stack Developer - Tech & Finance Enthusiast  🚀 - Vegetarian Cook 🌱 - Advocate for Self-Education & Psychology 📚 
 
-<h3>Get in Touch:</h3>
-<a href="https://www.linkedin.com/in/arpan-p" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> </a>
-<a href = "https://dev.to/apatel-ai" target="_blank"> <img width="48" height="48" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="linkedin"/> </a>
-
----
-
-<h3>Current Tools & Technologies:</h3>
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; text-align: center;">
-  <img  height="64px" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  
-<img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
-
-<img width="64" height="64px" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/>
-  
-  
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>  
-  
-<img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/>
+### Welcome to my Github Repository 🎉 
 
 
-<img height="64px" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-<img height="64px" src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" alt="postgreesql"/>
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
+### Frontend & Libraries
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-<img width="64" height="64" src="https://img.icons8.com/dusk/64/css3.png" alt="css3"/>
-<img width="64" height="64" src="https://img.icons8.com/color/64/html-5--v1.png" alt="html-5--v1"/>
-<img width="64" height="64" src="https://img.icons8.com/fluency/64/wordpress.png" alt="wordpress"/>
-<img width="64" height="64" src="https://img.icons8.com/plasticine/64/notion.png" alt="notion"/>
-</div>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
----
+### Tools & Services
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+### Build & Deployment
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-333?style=flat)
