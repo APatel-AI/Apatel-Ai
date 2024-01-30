@@ -1,7 +1,8 @@
 # Hi 👋 There, I'm Arpan
-####  Full-stack Developer - Tech & Finance Enthusiast  🚀 - Vegetarian Cook 🌱 - Advocate for Self-Education & Psychology 📚 
-
 ### Welcome to my Github Repository 🎉 
+#### Full-stack Developer - Tech & Finance Enthusiast  🚀 - Vegetarian Cook 🌱 - Advocate for Self-Education & Psychology 📚 
+
+
 
 
 ### Programming Languages
