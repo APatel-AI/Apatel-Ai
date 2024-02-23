@@ -40,4 +40,4 @@
 ### Build & Deployment
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-333?style=flat)
+![Render](https://img.shields.io/badge/-Render-333?style=flat&logo=render&logoColor=white)
