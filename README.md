@@ -1,10 +1,15 @@
 # 👋 Hi There, I'm Arpan
+
 ## Welcome to my Github Repository 🧠
+
 ### I'm a Full-stack Developer with a passion for technology and problem solving. Outside of coding you'll find me:
 ### - Blogging  📝
-### - Investing  📈
 ### - Traveling  🚙
 ### - Cooking  🧑‍🍳 
+
+### Present day ☕️: 
+### - Focusing more on backend development.
+### - Implementing algorithms to process data and scale projects.
 
 ## Connect with me on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arpan-p/)
@@ -36,3 +41,5 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
+
+## ![image title](https://rushter.com/counter.svg)
