@@ -1,10 +1,12 @@
 # 👋 Hi There, I'm Arpan
-### Welcome to my Github Repository 🧠
-#### I'm a Full-stack Developer with a passion for technology and problem solving. 
-### outside of coding, I invest time in Blogging, Investing, Traveling, and most importantly in learning new technologies.
+## Welcome to my Github Repository 🧠
+### I'm a Full-stack Developer with a passion for technology and problem solving. Outside of coding you'll find me:
+### - Blogging  📝
+### - Investing  📈
+### - Traveling  🚙
+### - Cooking  🧑‍🍳 
 
-
-## You can also find me on: 
+## Connect with me on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arpan-p/)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@arpan.p.se)
 
