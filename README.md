@@ -2,14 +2,16 @@
 
 ## Welcome to my Github Repository 🧠
 
+# 🌳 About Me:
 ### I'm a Full-stack Developer with a passion for technology and problem solving. Outside of coding you'll find me:
 ### - Blogging  📝
 ### - Traveling  🚙
 ### - Cooking  🧑‍🍳 
 
-### Present day ☕️: 
-### - Focusing more on backend development.
-### - Implementing algorithms to process data and scale projects.
+# Present day ☕️: 
+### - I'm currently focusing more on backend development. 🎧
+### - Implementing algorithms to process data and scale projects. 🧩
+### - Learning more about Machine Learning Concepts with TensorFlow APIs 🌱
 
 ## Connect with me on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arpan-p/)
@@ -42,4 +44,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
 
-## ![image title](https://rushter.com/counter.svg)
+
+
+
+
+
+
+
