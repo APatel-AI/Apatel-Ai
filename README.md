@@ -44,8 +44,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
 
-
-
+## Stats📊
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apatel-ai&theme=transparent)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apatel-ai&theme=transparent)
 
 
 
