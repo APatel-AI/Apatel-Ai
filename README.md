@@ -3,7 +3,7 @@
 ## Welcome to my Github Repository 🧠
 
 # 🌳 About Me:
-### I'm a Full-stack Developer with a passion for technology and problem solving. Outside of coding you'll find me:
+### I'm a SWE | Full-stack & Backend Developer with a passion for technology and problem solving. Outside of coding you'll find me:
 ### - Blogging  📝
 ### - Traveling  🚙
 ### - Cooking  🧑‍🍳 
