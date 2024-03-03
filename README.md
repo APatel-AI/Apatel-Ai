@@ -7,6 +7,7 @@
 ### - Blogging  📝
 ### - Traveling  🚙
 ### - Cooking  🧑‍🍳 
+### - Day Dreaming 😂
 
 # Present day ☕️: 
 ### - I'm currently focusing more on backend development. 🎧
