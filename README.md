@@ -1,6 +1,6 @@
 # 👋 Hi There, I'm Arpan
 
-## Welcome to my Github Repository 🧠
+## Welcome to my Github Repository
 
 # 🌳 About Me:
 ### I'm a SWE | Full-stack & Backend Developer with a passion for technology and problem solving. Outside of coding you'll find me:
