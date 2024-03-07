@@ -12,7 +12,7 @@
 # Present day ☕️: 
 ### - I'm currently focusing more on backend development. 🎧
 ### - Implementing algorithms to process data and scale projects. 🧩
-### - Learning more about Machine Learning Concepts with TensorFlow APIs 🌱
+### - Learning more about Machine Learning and AI integration 🌱
 
 ## Connect with me on: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arpan-p/)
