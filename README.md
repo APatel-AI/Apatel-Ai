@@ -1,7 +1,8 @@
 # 👋 Hi There, I'm Arpan
+> "If the idea is there, the vision is clear, the work is put in, don't stress—results will eventually follow." - AP
 
 # 🌳 About Me:
-### I'm a SWE | Full-stack & Backend Developer with a passion for technology and problem solving. Outside of coding you'll find me:
+### I'm a Full-stack & Backend Developer with a passion for technology and problem solving. Outside of coding you'll find me:
 ### - Blogging  📝
 ### - Traveling  🚙
 ### - Cooking  🧑‍🍳 
