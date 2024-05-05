@@ -1,20 +1,3 @@
-# 👋 Hi There, I'm Arpan
-
-# 🌳 About Me:
-### I'm a Full-stack & Backend Developer with a passion for technology and problem solving. Outside of coding you'll find me:
-### - Blogging  📝
-### - Traveling  🚙
-### - Cooking  🧑‍🍳 
-### - Day Dreaming 😂
-
-# Present day ☕️: 
-### - I'm currently focusing more on backend development. 🎧
-### - Learning more about Machine Learning and AI integration 🌱
-### - Learning Java
-
-## Connect with me on: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arpan-p/)
-[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@arpan.p.se)
 
 
 ## TECH STACK 💻
